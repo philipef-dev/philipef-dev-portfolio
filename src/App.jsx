@@ -59,9 +59,9 @@ function App() {
     { icon: "react", title: "ReactJS" },
     { icon: "styledcomponents", title: "Styled Components" },
     { icon: "figma", title: "Figma" },
-    { icon: "nodejs", title: "Node.js" },
-    { icon: "sqlite", title: "SQLite" },
-    { icon: "express", title: "Express.js" },
+    // { icon: "nodejs", title: "Node.js" },
+    // { icon: "sqlite", title: "SQLite" },
+    // { icon: "express", title: "Express.js" },
   ];
 
   const projectsData = [
@@ -205,7 +205,7 @@ function App() {
 
         <Section id="about" title="Sobre" setActiveSection={setActiveSection}>
           <p>
-            Olá, me chamo Philipe sou natural de Volta Redonda - RJ e atualmente estou me especializando em JavaScript, TypeScript, React.js e Next.js.
+            Olá, me chamo Philipe sou natural de Volta Redonda - RJ e atualmente estou me especializando em JavaScript, React.js, TypeScript e Next.js.
           </p>
           <p>
             Já passei por cursos, treinamentos e bootcamps com o Gustavo Guanabara, Maky Brito, Diego Fernandes, Roger Melo, Matheus Battisti, Bonieki Lacerda e entre outros professores, a fim de sempre estar aprimorando os meus conhecimentos e me manter atualizado. Sou fascinado pela arte de aprender, gosto de estudar desenvolvimento web e de dar vida ao layout proporcionando uma experiência incrível ao cliente final.
