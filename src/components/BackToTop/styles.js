@@ -10,6 +10,6 @@ export const Container = styled.a`
   color: ${({ theme }) => theme.COLORS.BRAND};
 
   @media (min-width: 1024px) {
-    right: 12.3rem;
+    right: 11rem;
   }
 `;
