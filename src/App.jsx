@@ -211,7 +211,7 @@ function App() {
             Já passei por cursos, treinamentos e bootcamps com o Gustavo Guanabara, Maky Brito, Diego Fernandes, Roger Melo, Matheus Battisti, Bonieki Lacerda e entre outros professores, a fim de sempre estar aprimorando os meus conhecimentos e me manter atualizado. Sou fascinado pela arte de aprender, gosto de estudar e praticar desenvolvimento web criando interfaces interativas proporcionando uma experiência incrível ao cliente final.
           </p>
           <p>
-            Sempre que tive a oportunidade de trabalhar foi como desenvolvedor freelance e neste momento estou em busca de uma oportunidade fixa onde possa contribuir com as minhas habilidades e conhecimentos adquiridos até aqui para melhor ajudar a empresa.
+            Sempre que tive a oportunidade de trabalhar foi como desenvolvedor web freelance e neste momento estou em busca de uma oportunidade fixa onde possa contribuir com as minhas habilidades e conhecimentos adquiridos até aqui para melhor ajudar a empresa.
           </p>
 
           <Skills>
