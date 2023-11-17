@@ -91,7 +91,7 @@ function App() {
       title: "React Interview Challenge",
       repo: "challenge-react.js-01",
       demo: "https://challenge-react01.vercel.app/",
-      description: "Desafio para teste técnico utilizando a biblioteca React. Este teste é bastante utilizado para as empresas para recrutamento de candidatos.",
+      description: "Desafio para teste técnico utilizando a biblioteca ReactJS. Este teste é bastante utilizado para as empresas para recrutamento de candidatos.",
       path: "https://i.imgur.com/S5pTSxp.png",
       tags: [
         "ReactJS",
@@ -113,7 +113,7 @@ function App() {
       title: "Appointments",
       repo: "appointiments",
       demo: "https://github.com/PhilipeF/appointiments",
-      description: "Projeto desenvolvido durante o Ignite que é um treinamento imersivo em ReactJS da Rocketseat. Neste projeto é possivel registrar entradas e saídas de valores e um total.",
+      description: "Projeto desenvolvido durante o Ignite, treinamento imersivo em ReactJS da Rocketseat. Neste projeto é possivel registrar entradas e saídas de valores e um total.",
       path: "https://i.imgur.com/hV6HbYt.png",
       tags: [
         "HTML",
