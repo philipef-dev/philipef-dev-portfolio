@@ -113,7 +113,7 @@ function App() {
       title: "Appointments",
       repo: "appointiments",
       demo: "https://github.com/PhilipeF/appointiments",
-      description: "Projeto desenvolvido durante o Ignite, treinamento imersivo em ReactJS da Rocketseat. Neste projeto é possivel registrar entradas e saídas de valores e um total.",
+      description: "Projeto desenvolvido durante o treinamento imersivo em ReactJS da Rocketseat. Neste projeto é possivel registrar entradas, saídas de valores e um total.",
       path: "https://i.imgur.com/hV6HbYt.png",
       tags: [
         "HTML",
