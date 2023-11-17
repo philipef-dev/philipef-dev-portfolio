@@ -69,7 +69,7 @@ function App() {
       title: "Magazine-Caps",
       repo: "magazine-caps",
       demo: "https://philipef.github.io/magazine-caps/",
-      description: "Projeto desenvolvido com intuito de praticar os principais fundamentos do JavaScript. Consiste em um modelo de loja virtual onde o cliente pode adicionar, remover, acrescentar e decrementar novos produtos na loja, com formulário para validaçao de dados e histórico dos pedidos realizados",
+      description: "Projeto desenvolvido com intuito de praticar os principais fundamentos do JavaScript. Consiste em uma loja virtual onde o cliente pode adicionar, remover, acrescentar e decrementar produtos, com formulário para validação de dados e histórico dos pedidos realizados.",
       path: "https://i.imgur.com/5fe5MU3.png",
       tags: [
         "JavaScript",
