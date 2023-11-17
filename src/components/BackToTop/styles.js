@@ -4,7 +4,7 @@ export const Container = styled.a`
   display: flex;
   position: fixed;
   bottom: 12.4rem;
-  right: 2.8rem;
+  right: 1.8rem;
   z-index: 10;
 
   color: ${({ theme }) => theme.COLORS.BRAND};

@@ -102,7 +102,7 @@ function App() {
       title: "React Form Multi",
       repo: "react-form-multi",
       demo: "https://github.com/PhilipeF/react-form-multi",
-      description: "Formulário em React utilizando validações padrões onde é possível o cliente registar o seu nome, e-mail, análise de satisfação com emoji e um comentário. Essas informação são exibidas em tela no final do cilco, conforme vemos em muitos sites de e-commerce.",
+      description: "Neste projeto é possivel o cliente registrar os seus dados com análise de satisfação em emoji e um comentário. Essas informação são exibidas em tela no final do cilco conforme vemos em muitos sites de e-commerces.",
       path: "https://i.imgur.com/0ejbGc4.png",
       tags: [
         "JavaScript ",
@@ -208,7 +208,7 @@ function App() {
             Natural de Volta Redonda - RJ e um eterno apaixonado por tecnologia e desenvolvimento web, estou neste momento me especializando em JavaScript, React.js, TypeScript e Next.js.
           </p>
           <p>
-            Já passei por cursos, treinamentos e bootcamps com o Gustavo Guanabara, Maky Brito, Diego Fernandes, Roger Melo, Matheus Battisti, Bonieki Lacerda e entre outros professores, a fim de sempre estar aprimorando os meus conhecimentos e me manter atualizado. Sou fascinado pela arte de aprender, gosto de estudar e praticar desenvolvimento web e criando interfaces interativas proporcionando uma experiência incrível ao cliente final.
+            Já passei por cursos, treinamentos e bootcamps com o Gustavo Guanabara, Maky Brito, Diego Fernandes, Roger Melo, Matheus Battisti, Bonieki Lacerda e entre outros professores, a fim de sempre estar aprimorando os meus conhecimentos e me manter atualizado. Sou fascinado pela arte de aprender, gosto de estudar e praticar desenvolvimento web criando interfaces interativas proporcionando uma experiência incrível ao cliente final.
           </p>
           <p>
             Sempre que tive a oportunidade de trabalhar foi como desenvolvedor freelance e neste momento estou em busca de uma oportunidade fixa onde possa contribuir com as minhas habilidades e conhecimentos adquiridos até aqui para melhor ajudar a empresa.
