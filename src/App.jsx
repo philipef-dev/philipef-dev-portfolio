@@ -205,10 +205,10 @@ function App() {
 
         <Section id="about" title="Sobre" setActiveSection={setActiveSection}>
           <p>
-            Natural de Volta Redonda-RJ sou um eterno apaixonado por tecnologia e desenvolvimento web, e estou neste momento me especializando em JavaScript, React.js, TypeScript e Next.js.
+            Natural de Volta Redonda-RJ e um eterno apaixonado por tecnologia e desenvolvimento web, estou neste momento me especializando em JavaScript, React.js, TypeScript e Next.js.
           </p>
           <p>
-            Já passei por cursos, treinamentos e bootcamps com o Gustavo Guanabara, Maky Brito, Diego Fernandes, Roger Melo, Matheus Battisti, Bonieki Lacerda e entre outros professores, a fim de sempre estar aprimorando os meus conhecimentos e me manter atualizado. Sou fascinado pela arte de aprender, gosto de estudar e praticar desenvolvimento web criando interfaces interativas proporcionando uma experiência incrível ao cliente final.
+            Já passei por cursos, treinamentos e bootcamps com o Gustavo Guanabara, Maky Brito, Diego Fernandes, Roger Melo, Matheus Battisti, Bonieki Lacerda e entre outros professores, a fim de sempre estar aprimorando os meus conhecimentos e me manter atualizado. Sou fascinado pela arte de aprender, gosto de estudar e praticar desenvolvimento web, criando interfaces interativas proporcionando uma experiência incrível ao cliente final.
           </p>
           <p>
             Sempre que tive a oportunidade de trabalhar foi como desenvolvedor web freelance e neste momento estou em busca de uma oportunidade fixa onde possa contribuir com as minhas habilidades e conhecimentos adquiridos até aqui para melhor ajudar a empresa.
