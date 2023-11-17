@@ -45,5 +45,5 @@ export const Preview = styled.div`
 export const Tags = styled.div`
   display: flex;
   flex-wrap: wrap;
-  gap: 0.8rem 1.6rem;
+  gap: 0.5rem 1rem;
 `;
