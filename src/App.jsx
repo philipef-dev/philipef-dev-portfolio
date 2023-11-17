@@ -113,7 +113,7 @@ function App() {
       title: "Appointments",
       repo: "appointiments",
       demo: "https://github.com/PhilipeF/appointiments",
-      description:  "Neste projeto é possivel registrar entradas, saídas de valores e um total. Perfeito para quem quer se manter organizado financeiramente.",
+      description:  "Neste projeto é possivel registrar entradas, saídas de valores e um total, muito bom para quem quer se manter organizado financeiramente.",
       path: "https://i.imgur.com/hV6HbYt.png",
       tags: [
         "HTML",
