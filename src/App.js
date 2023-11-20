@@ -32,7 +32,7 @@ export const Container = styled.div`
     justify-content: center;
     gap: 3.2rem;
 
-    text-align: center;
+    text-align: justify;
     padding-top: 10rem;
 
     > h2 {
@@ -46,6 +46,7 @@ export const Container = styled.div`
   }
 
   #about {
+    text-align: justify;
     p + p {
       margin-top: 1.6rem;
     }
