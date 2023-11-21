@@ -59,9 +59,9 @@ function App() {
     { icon: "react", title: "ReactJS" },
     { icon: "styledcomponents", title: "Styled Components" },
     { icon: "figma", title: "Figma" },
-    // { icon: "nodejs", title: "Node.js" },
-    // { icon: "sqlite", title: "SQLite" },
-    // { icon: "express", title: "Express.js" },
+    { icon: "nodejs", title: "Node.js" },
+    { icon: "mysql", title: "MySQL" },
+    { icon: "express", title: "Express.js" },
   ];
 
   const projectsData = [
@@ -113,7 +113,7 @@ function App() {
       title: "Appointments",
       repo: "appointiments",
       demo: "https://github.com/PhilipeF/appointiments",
-      description:  "Neste projeto é possivel registrar entradas, saídas de valores e um total, muito bom para quem quer se manter organizado financeiramente.",
+      description: "Neste projeto é possivel registrar entradas, saídas de valores e um total, muito bom para quem quer se manter organizado financeiramente.",
       path: "https://i.imgur.com/hV6HbYt.png",
       tags: [
         "HTML",
@@ -211,7 +211,11 @@ function App() {
             Já passei por cursos, treinamentos e bootcamps com o Gustavo Guanabara, Maky Brito, Diego Fernandes, Roger Melo, Matheus Battisti, Bonieki Lacerda e entre outros professores, a fim de sempre estar aprimorando os meus conhecimentos e me manter atualizado. Sou fascinado pela arte de aprender, gosto de estudar e praticar desenvolvimento web, criando interfaces interativas proporcionando uma experiência incrível ao cliente final.
           </p>
           <p>
-            Sempre que tive a oportunidade de trabalhar foi como desenvolvedor web freelance e neste momento estou em busca de uma oportunidade fixa onde possa contribuir com as minhas habilidades e conhecimentos adquiridos até aqui para melhor ajudar a empresa.
+            Como experiência tenho 3 (três) anos como “desenvolvedor web freelancer” ativo e
+            atuante em plataformas como a 99Freelas, Workanda, Freelancer, Upwork e entre outras desenvolvendo soluções para "e-commerces" utilizando como principais skills o WordPress, VTEX IO, JQuery, Javascript, React.js, HTML e CSS. Em VTEX IO pude tirar uma certificação recentemente.
+          </p>
+          <p>
+            O meu foco é me especializar no front-end mas já tive a oportunidade de trabalhar com o back-end de algumas aplicações utilizando o Node.js e MySQL.
           </p>
 
           <Skills>
