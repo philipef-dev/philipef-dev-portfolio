@@ -18,7 +18,9 @@ export const Container = styled.footer`
   }
 `;
 
-export const Copyright = styled.div``;
+export const Copyright = styled.div`
+font-size: 1rem;
+`;
 
 export const SocialMedia = styled.div`
   display: flex;
