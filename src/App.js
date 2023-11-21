@@ -30,7 +30,7 @@ export const Container = styled.div`
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 3.2rem;
+    gap: 3rem;
 
     padding-top: 8rem;
 
