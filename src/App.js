@@ -32,7 +32,7 @@ export const Container = styled.div`
     justify-content: center;
     gap: 3.2rem;
 
-    padding-top: 10rem;
+    padding-top: 8rem;
 
     > h2 {
       display: none;
