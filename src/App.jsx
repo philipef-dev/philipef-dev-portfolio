@@ -212,7 +212,7 @@ function App() {
           </p>
           <p>
             Como experiência tenho 3 (três) anos como “desenvolvedor web freelancer” ativo e
-            atuante em plataformas como a 99Freelas, Workanda, Freelancer, Upwork e entre outras, desenvolvendo soluções para "e-commerces" utilizando como principais skills o WordPress, VTEX IO, JQuery, Javascript, React.js, HTML e CSS. Em VTEX IO, JavaScript e React.js pude tirar certificação recentemente.
+            atuante em plataformas como a 99Freelas, Workanda, Freelancer, Upwork e entre outras, desenvolvendo soluções para "e-commerces" utilizando como principais skills o WordPress, VTEX IO, JQuery, JavaScript, React.js, HTML e CSS. Em VTEX IO, JavaScript e React.js pude tirar certificação recentemente.
           </p>
           <p>
             O meu foco é me especializar no front-end mas já tive a oportunidade de trabalhar com o back-end de algumas aplicações utilizando o Node.js e MySQL.
