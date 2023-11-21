@@ -19,7 +19,7 @@ export const Container = styled.footer`
 `;
 
 export const Copyright = styled.div`
-font-size: 1rem;
+font-size: 1.2rem;
 `;
 
 export const SocialMedia = styled.div`

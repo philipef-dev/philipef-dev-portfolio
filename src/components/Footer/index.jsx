@@ -5,7 +5,7 @@ export function Footer() {
   return (
     <Container>
       <Copyright>
-        <p>© 2023 Philipe Ferreira - Desenvolvedor Web 👨🏽‍💻 </p>
+        <p>© 2023 Philipe Ferreira  Desenvolvedor Web 👨🏽‍💻 </p>
         <p>Todos os direitos reservados.</p>
       </Copyright>
 
