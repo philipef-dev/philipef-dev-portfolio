@@ -281,7 +281,7 @@ function App() {
             <p>Vamos construir algo juntos?</p>
 
             <Links>
-              <Link href="mailto:philipesferreiraa#gmail.com" title="E-mail">
+              <Link href="mailto:philipesferreiraa@gmail.com" title="E-mail">
                 <Envelope size={24} />
               </Link>
 
