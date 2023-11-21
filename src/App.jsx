@@ -146,7 +146,7 @@ function App() {
       alt: "Certificado de conclusão do intensivação em JavaScript da HashTag Treinamentos.",
     },
     {
-      src: "https://i.imgur.com/fWkzrjx.png",
+      src: "https://i.imgur.com/5kOU66b.png",
       alt: "Certificado tirado junto a Coodesh em React.js !!",
     },
     {

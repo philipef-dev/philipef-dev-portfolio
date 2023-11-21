@@ -4,7 +4,7 @@ export const Container = styled.div`
   display: flex;
   flex-direction: column;
   gap: 1.6rem;
-  text-align: inherit;
+  text-align: left;
 
   background-color: ${({ theme }) => theme.COLORS.BACKGROUND_800};
   border-radius: 12px;

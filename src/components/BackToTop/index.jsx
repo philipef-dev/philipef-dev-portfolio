@@ -11,7 +11,7 @@ export function BackToTop({ handleSectionScroll }) {
         handleSectionScroll("home");
       }}
     >
-      <ArrowCircleUp size={48} />
+      <ArrowCircleUp size={28} />
     </Container>
   );
 }
