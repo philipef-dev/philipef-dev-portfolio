@@ -91,7 +91,7 @@ function App() {
       title: "React Interview Challenge",
       repo: "challenge-react.js-01",
       demo: "https://challenge-react01.vercel.app/",
-      description: "Desafio para teste técnico utilizando a biblioteca ReactJS. Este teste é bastante utilizado para as empresas para recrutamento de candidatos.",
+      description: "Desafio para teste técnico utilizando a biblioteca ReactJS. Este teste é bastante utilizado nos processos seletivos  das empresas para recrutamento de candidatos.",
       path: "https://i.imgur.com/S5pTSxp.png",
       tags: [
         "ReactJS",
@@ -113,7 +113,7 @@ function App() {
       title: "Appointments",
       repo: "appointiments",
       demo: "https://github.com/PhilipeF/appointiments",
-      description: "Neste projeto é possivel registrar entradas, saídas de valores e um total, muito bom para quem quer se manter organizado financeiramente.",
+      description: "Neste projeto é possivel registrar entradas, saídas de valores e um total. Ideal para quem quer se manter organizado financeiramente.",
       path: "https://i.imgur.com/hV6HbYt.png",
       tags: [
         "HTML",
