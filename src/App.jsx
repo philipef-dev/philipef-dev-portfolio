@@ -215,7 +215,7 @@ function App() {
             atuante em plataformas como a 99Freelas, Workanda, Freelancer, Upwork e entre outras, desenvolvendo soluções para "e-commerces" utilizando como principais skills o WordPress, VTEX IO, JavaScript, JQuery, React.js, HTML e CSS. Em VTEX IO, JavaScript e React.js pude tirar certificação recentemente.
           </p>
           <p>
-            O meu foco é me especializar no front-end mas já tive a oportunidade de trabalhar com o back-end de algumas aplicações utilizando o Node.js e MySQL.
+            O meu foco é me especializar no front-end, mas já tive a oportunidade de trabalhar com o back-end de algumas aplicações utilizando o Node.js e MySQL.
           </p>
 
           <Skills>
