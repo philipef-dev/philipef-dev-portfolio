@@ -69,7 +69,7 @@ function App() {
       title: "Magazine-Caps",
       repo: "magazine-caps",
       demo: "https://philipef.github.io/magazine-caps/",
-      description: "Projeto desenvolvido com intuito de praticar os principais fundamentos do JavaScript. Consiste em uma loja virtual onde o cliente pode adicionar, remover, acrescentar e decrementar produtos, com formulário para validação de dados e histórico dos pedidos realizados.",
+      description: "Projeto desenvolvido com intuito de praticar os principais fundamentos do JavaScript. Consiste em um modelo de loja virtual onde o cliente pode adicionar, remover, acrescentar e decrementar produtos, com formulário para validação de dados e histórico dos pedidos realizados.",
       path: "https://i.imgur.com/5fe5MU3.png",
       tags: [
         "JavaScript",
@@ -80,7 +80,7 @@ function App() {
       title: "To-Do-List Turbinado",
       repo: "to-do-list-turbinado-react",
       demo: "https://to-do-list-react-murex-eight.vercel.app/",
-      description: "Projeto desenvolvido com intuito de praticar as minhas habilidades com a biblioteca React.js. Neste projeto pude praticar gerenciamento de estado e compartilhando de propriedades utilizando um dos hooks mais utilizados no React.js o useState.",
+      description: "Projeto desenvolvido com intuito de praticar os principais fundamentos da biblioteca React.js. Neste projeto pude trabalhar com gerenciamento de estado e compartilhando de propriedades utilizando um dos hooks mais utilizados no React.js o useState.",
       path: "https://i.imgur.com/R2HNHfE.png",
       tags: [
         "ReactJS",
@@ -91,7 +91,7 @@ function App() {
       title: "React Interview Challenge",
       repo: "challenge-react.js-01",
       demo: "https://challenge-react01.vercel.app/",
-      description: "Desafio para teste técnico utilizando a biblioteca ReactJS. Este teste é bastante utilizado nos processos seletivos  das empresas para recrutamento de candidatos.",
+      description: "Desafio para teste técnico utilizando a biblioteca React.js. Este teste é bastante utilizado em processos seletivos para recrutamento de candidatos.",
       path: "https://i.imgur.com/S5pTSxp.png",
       tags: [
         "ReactJS",
@@ -102,7 +102,7 @@ function App() {
       title: "React Form Multi",
       repo: "react-form-multi",
       demo: "https://github.com/PhilipeF/react-form-multi",
-      description: "Neste projeto é possivel o cliente registrar os seus dados com análise de satisfação em emoji e um comentário. Essas informação são exibidas em tela no final do cilco conforme vemos em muitos sites de e-commerces.",
+      description: "Projeto simples porém muito agregador para fixar as bases da biblioteca React.js. Foi criado um formulário utilizando validações padrões onde é possível registar o seu nome, e-mail, análise de satisfação com emoji e um comentário. Essas informação são exibidas em tela no final do cilco",
       path: "https://i.imgur.com/0ejbGc4.png",
       tags: [
         "JavaScript ",
@@ -113,7 +113,7 @@ function App() {
       title: "Appointments",
       repo: "appointiments",
       demo: "https://github.com/PhilipeF/appointiments",
-      description: "Neste projeto é possivel registrar entradas, saídas de valores e um total. Ideal para quem quer se manter organizado financeiramente.",
+      description: "Projeto desenvolvido durante o Ignite - Bootcamp imersivo em React.Js da Rocketseat. Neste projeto é possivel registrar entradas, saídas de valores e um total. Ideal para quem quer se manter organizado financeiramente.",
       path: "https://i.imgur.com/hV6HbYt.png",
       tags: [
         "HTML",
