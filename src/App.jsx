@@ -102,7 +102,7 @@ function App() {
       title: "React Form Multi",
       repo: "react-form-multi",
       demo: "https://react-form-multi.vercel.app/",
-      description: "Projeto simples porém muito agregador para fixar as bases da biblioteca React.js. Foi criado um formulário utilizando validações padrões onde é possível registar o seu nome, e-mail, análise de satisfação com emoji e um comentário. Essas informação são exibidas em tela no final do cilco",
+      description: "Projeto simples porém muito agregador para fixar as bases da biblioteca React.js. Foi criado um formulário utilizando validações padrões onde é possível registar o seu nome, e-mail, análise de satisfação com emoji e um comentário. Essas informação são exibidas em tela no final do ciclo.",
       path: "https://i.imgur.com/0ejbGc4.png",
       tags: [
         "JavaScript ",
