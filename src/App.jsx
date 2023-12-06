@@ -79,7 +79,7 @@ function App() {
     {
       title: "To-Do-List Turbinado",
       repo: "to-do-list-turbinado-react",
-      demo: "https://to-do-list-react-murex-eight.vercel.app/",
+      demo: "https://to-do-list-turbinado-react.vercel.app/",
       description: "Projeto desenvolvido com intuito de praticar os principais fundamentos da biblioteca React.js. Neste projeto pude trabalhar com gerenciamento de estado e compartilhando de propriedades utilizando um dos hooks mais utilizados do React.js o useState.",
       path: "https://i.imgur.com/R2HNHfE.png",
       tags: [
@@ -101,7 +101,7 @@ function App() {
     {
       title: "React Form Multi",
       repo: "react-form-multi",
-      demo: "https://github.com/PhilipeF/react-form-multi",
+      demo: "https://react-form-multi.vercel.app/",
       description: "Projeto simples porém muito agregador para fixar as bases da biblioteca React.js. Foi criado um formulário utilizando validações padrões onde é possível registar o seu nome, e-mail, análise de satisfação com emoji e um comentário. Essas informação são exibidas em tela no final do cilco",
       path: "https://i.imgur.com/0ejbGc4.png",
       tags: [
