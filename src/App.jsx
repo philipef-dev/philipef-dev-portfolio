@@ -80,7 +80,7 @@ function App() {
       title: "To-Do-List Turbinado",
       repo: "to-do-list-turbinado-react",
       demo: "https://to-do-list-react-murex-eight.vercel.app/",
-      description: "Projeto desenvolvido com intuito de praticar os principais fundamentos da biblioteca React.js. Neste projeto pude trabalhar com gerenciamento de estado e compartilhando de propriedades utilizando um dos hooks mais utilizados no React.js o useState.",
+      description: "Projeto desenvolvido com intuito de praticar os principais fundamentos da biblioteca React.js. Neste projeto pude trabalhar com gerenciamento de estado e compartilhando de propriedades utilizando um dos hooks mais utilizados do React.js o useState.",
       path: "https://i.imgur.com/R2HNHfE.png",
       tags: [
         "ReactJS",
