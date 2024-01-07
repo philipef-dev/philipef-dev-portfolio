@@ -205,19 +205,19 @@ function App() {
 
         <Section id="about" title="Sobre" setActiveSection={setActiveSection}>
           <p>
-            Natural de Volta Redonda-RJ e um eterno apaixonado por tecnologia e desenvolvimento web, estou neste momento me especializando em JavaScript, React.js, TypeScript e Next.js.
+            Olá, meu nome é Philipe, nasci em Volta Redonda - RJ e estou atualmente focado em aprimorar minhas habilidades em JavaScript, TypeScript, React.js e Next.js.
           </p>
           <p>
-            Já passei por cursos, treinamentos e bootcamps com o Gustavo Guanabara, Maky Brito, Diego Fernandes, Roger Melo, Matheus Battisti, Bonieki Lacerda e entre outros professores, a fim de sempre estar aprimorando os meus conhecimentos e me manter atualizado. Sou fascinado pela arte de aprender, gosto de estudar e praticar desenvolvimento web, criando interfaces interativas proporcionando uma experiência incrível ao cliente final.
+            Ao longo da minha jornada, participei de cursos, treinamentos e bootcamps ministrados por renomados profissionais, incluindo Gustavo Guanabara, Maky Brito, Diego Fernandes, Roger Melo, Matheus Battisti, Bonieki Lacerda, e outros professores, buscando constantemente atualizações e conhecimentos.
+          </p>
+          <p> Sou apaixonado pela arte de aprender e dedicado ao estudo do desenvolvimento web, especialmente em criar novas funcionalidades e transformar designs em experiências incríveis para os clientes finais.
           </p>
           <p>
-            Como experiência tenho 3 (três) anos como “desenvolvedor web freelancer” ativo e
-            atuante em plataformas como a 99Freelas, Workana, Freelancer, Upwork e entre outras, desenvolvendo soluções para "e-commerces" utilizando como principais skills o WordPress, VTEX IO, JavaScript, JQuery, React.js, HTML e CSS. Em VTEX IO, JavaScript e React.js pude tirar certificação recentemente.
+            Com uma trajetória de 3 (três) anos como desenvolvedor web freelancer ativo, tive a oportunidade de colaborar em diversas plataformas como 99Freelas, Workana, Freelancer, Upwork, entre outras. Durante esse período, concentrei meus esforços no desenvolvimento de soluções para e-commerce, utilizando minhas principais habilidades em WordPress, VTEX IO, JavaScript, React.js, HTML e CSS. Recentemente, obtive certificação em JavaScript, React.js e VTEX IO, consolidando ainda mais meu conhecimento nessa área.
           </p>
           <p>
             O meu foco é me especializar no front-end, mas já tive a oportunidade de trabalhar com o back-end de algumas aplicações utilizando o Node.js e MySQL.
           </p>
-
           <Skills>
             {skillsData.map((skill, index) => (
               <Skill key={index} icon={skill.icon} title={skill.title} />
@@ -300,7 +300,7 @@ function App() {
       {showBackToTop && <BackToTop handleSectionScroll={handleSectionScroll} />}
 
       <Footer />
-    </Container>
+    </Container >
   );
 }
 
