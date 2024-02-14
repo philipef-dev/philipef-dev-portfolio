@@ -213,7 +213,7 @@ function App() {
           <p> Sou apaixonado pela arte de aprender e dedicado ao estudo do desenvolvimento web, especialmente em criar novas funcionalidades e transformar designs em experiências incríveis para os clientes finais.
           </p>
           <p>
-            Com uma trajetória de 3 (três) anos como desenvolvedor web freelancer ativo, tive a oportunidade de colaborar em diversas plataformas como 99Freelas, Workana, Freelancer, Upwork, entre outras. Durante esse período, concentrei meus esforços no desenvolvimento de soluções para e-commerce, utilizando minhas principais habilidades em WordPress, VTEX IO, JavaScript, React.js, HTML e CSS. Recentemente, obtive certificação em JavaScript, React.js e VTEX IO, consolidando ainda mais meu conhecimento nessa área.
+            Com uma trajetória de 3 (três) anos como desenvolvedor web freelancer ativo, tive a oportunidade de colaborar em diversas plataformas como 99Freelas, Workana, Freelancer, Upwork, entre outras. Durante esse período, concentrei meus esforços no desenvolvimento de soluções para e-commerce, utilizando minhas principais habilidades em JavaScript, React.js, HTML, CSS, VTEX IO e WordPress. Recentemente, obtive certificação em JavaScript, React.js e VTEX IO, consolidando ainda mais meu conhecimento nessa área.
           </p>
           <p>
             O meu foco é me especializar no front-end, mas já tive a oportunidade de trabalhar com o back-end de algumas aplicações utilizando o Node.js e MySQL.
