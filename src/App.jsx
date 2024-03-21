@@ -151,8 +151,17 @@ function App() {
     },
     {
       src: "https://i.imgur.com/08u1A9N.png",
-      alt: "Certificado da conclusão curso em VTEX IO Native.",
+      alt: "Certificado de conclusão curso em VTEX IO Native.",
     },
+    {
+      src: "https://imgur.com/UnKyKdW.png",
+      alt: "Certicado de conclusão do curso em fluência em JavaScript CJRM "
+    },
+    {
+      src: "https://imgur.com/M3KMyz3.png",
+      alt: "Certicado de conclusão do curso em fluência em JavaScript CJRM "
+    }
+
   ];
 
   return (
