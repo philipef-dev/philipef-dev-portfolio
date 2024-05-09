@@ -217,7 +217,7 @@ function App() {
             Olá, meu nome é Philipe, nasci em Volta Redonda - RJ e estou atualmente focado em aprimorar minhas habilidades em JavaScript, TypeScript, React.js e Next.js.
           </p>
           <p>
-            Ao longo da minha jornada, participei de cursos, treinamentos e bootcamps ministrados por renomados profissionais, incluindo Gustavo Guanabara, Maky Brito, Diego Fernandes, Roger Melo, Matheus Battisti, Bonieki Lacerda, e outros professores, buscando constantemente atualizações e conhecimentos.
+            Ao longo da minha jornada, participei de cursos, treinamentos e bootcamps ministrados por renomados profissionais, incluindo Gustavo Guanabara, Maky Brito, Diego Fernandes, Matheus Battisti, Bonieki Lacerda, e outros professores, buscando constantemente atualizações e conhecimentos.
           </p>
           <p> Sou apaixonado pela arte de aprender e dedicado ao estudo do desenvolvimento web, especialmente em criar novas funcionalidades e transformar designs em experiências incríveis para os clientes finais.
           </p>
