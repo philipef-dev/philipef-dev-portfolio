@@ -98,17 +98,19 @@ function App() {
         "JavaScript",
       ],
     },
-    {
-      title: "React Form Multi",
-      repo: "react-form-multi",
-      demo: "https://react-form-multi.vercel.app/",
-      description: "Projeto simples porém muito agregador para fixar as bases da biblioteca React.js. Foi criado um formulário utilizando validações padrões onde é possível registar o seu nome, e-mail, análise de satisfação com emoji e um comentário. Essas informação são exibidas em tela no final do ciclo.",
-      path: "https://i.imgur.com/0ejbGc4.png",
-      tags: [
-        "JavaScript ",
-        "ReactJS",
-      ],
-    },
+    // {
+    //   title: "CRUD em NODE JS",
+    //   repo: "nodecrud",
+    //   demo: "https://github.com/PhilipeF/nodecrud",
+    //   description: "Foi criando um banco de dados com duas entidades. Videos e categorias, simulando um sistema de cadastro de videos e suas respectivas categorias onde uma tabela se relaciona com a outra e eu posso cadastrar, deletar, editar e listar novos videos e categorias. Ao listar um determinado video já me aparece a sua categoria e a descrição da mesma devido ao relacionamento criado.",
+    //   path: "https://i.imgur.com/0ejbGc4.png",
+    //   tags: [
+    //     "Node.js ",
+    //     "Express",
+    //     "TypeScript",
+    //     "PostsgreSQL"
+    //   ],
+    // },
     {
       title: "Appointments",
       repo: "appointiments",
@@ -194,7 +196,7 @@ function App() {
           <Presentation>
             <h1>
               Olá! Sou <span>Philipe</span>, <br></br> Desenvolvedor Web <br></br>
-              Front-End
+              Front End
             </h1>
 
             <Links>
@@ -214,18 +216,16 @@ function App() {
 
         <Section id="about" title="Sobre" setActiveSection={setActiveSection}>
           <p>
-            Olá, meu nome é Philipe, nasci em Volta Redonda - RJ e estou atualmente focado em aprimorar minhas habilidades em JavaScript, TypeScript, React.js e Next.js.
+            Profissional de informática com mais de 15 (quize) anos de experiência, iniciei minha trajetória como auxiliar técnico, oferecendo suporte a alunos e professores em aulas de montagem e manutenção de computadores, notebooks, redes e introdução ao desenvolvimento web. Posteriormente, especializei-me em suporte e infraestrutura de redes de computadores (NOC), gerenciando redes de provedores de internet. Em seguida, fiz a transição de carreira para desenvolvimento web, mantendo-me atualizado por meio de cursos e bootcamps ministrados por profissionais renomados.
           </p>
           <p>
-            Ao longo da minha jornada, participei de cursos, treinamentos e bootcamps ministrados por renomados profissionais, incluindo Gustavo Guanabara, Maky Brito, Diego Fernandes, Matheus Battisti, Bonieki Lacerda, e outros professores, buscando constantemente atualizações e conhecimentos.
-          </p>
-          <p> Sou apaixonado pela arte de aprender e dedicado ao estudo do desenvolvimento web, especialmente em criar novas funcionalidades e transformar designs em experiências incríveis para os clientes finais.
+            Sou apaixonado pela arte de aprender e dedicado ao estudo do desenvolvimento web, especialmente em criar novas funcionalidades e transformar designs em experiências incríveis para os clientes finais.
           </p>
           <p>
-            Com uma trajetória de 3 (três) anos como desenvolvedor web freelancer ativo, tive a oportunidade de colaborar em diversas plataformas como 99Freelas, Workana, Freelancer, Upwork, entre outras. Durante esse período, concentrei meus esforços no desenvolvimento de soluções para e-commerce, utilizando minhas principais habilidades em JavaScript, React.js, Sass, Styled Components, Bootstrap, Tailwind CSS, WordPress e VTEX IO. Recentemente, obtive certificação em JavaScript, React.js e VTEX IO, consolidando ainda mais meu conhecimento nessa área.
+            Com uma experiências de 3 (três) anos como desenvolvedor web freelancer ativo, tive a oportunidade de colaborar em diversas plataformas como 99Freelas, Workana, Freelancer e Upwork. Durante esse período, concentrei meus esforços no desenvolvimento de soluções para e-commerce, utilizando minhas principais habilidades em JavaScript, React.js, Sass, Styled Components, Bootstrap, Tailwind CSS, WordPress e VTEX IO. Recentemente, obtive certificação em JavaScript, React.js e VTEX IO, consolidando ainda mais meu conhecimento nessa área.
           </p>
           <p>
-            O meu foco é me especializar no front-end, mas já tive a oportunidade de trabalhar com o back-end de algumas aplicações utilizando o Node.js e MySQL.
+            O meu foco é me especializar no front-end, mas já tive a oportunidade de trabalhar com o back-end de algumas aplicações utilizando o Node.js, MySQL, PostgreSQL, TypeORM, Firebase e Docker.
           </p>
           <Skills>
             {skillsData.map((skill, index) => (
