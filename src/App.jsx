@@ -216,13 +216,13 @@ function App() {
 
         <Section id="about" title="Sobre" setActiveSection={setActiveSection}>
           <p>
-            Profissional de informática com mais de 15 (quize) anos de experiência, iniciei minha trajetória como auxiliar técnico, oferecendo suporte a alunos e professores em aulas de montagem e manutenção de computadores, notebooks, redes e introdução ao desenvolvimento web. Posteriormente, especializei-me em suporte e infraestrutura de redes de computadores (NOC), gerenciando redes de provedores de internet. Em seguida, fiz a transição de carreira para desenvolvimento web, mantendo-me atualizado por meio de cursos e bootcamps ministrados por profissionais renomados.
+            Profissional de informática com mais de 15 (quinze) anos de vivência na área, iniciei minha trajetória como auxiliar técnico, oferecendo suporte a alunos e professores em aulas de montagem e manutenção de computadores, notebooks, redes e introdução ao desenvolvimento web. Posteriormente, especializei-me em suporte e infraestrutura de redes de computadores (NOC), gerenciando redes de provedores de internet. Em seguida, fiz a transição de carreira para desenvolvimento web, mantendo-me atualizado por meio de cursos e bootcamps ministrados por profissionais renomados.
           </p>
           <p>
             Sou apaixonado pela arte de aprender e dedicado ao estudo do desenvolvimento web, especialmente em criar novas funcionalidades e transformar designs em experiências incríveis para os clientes finais.
           </p>
           <p>
-            Com uma experiências de 3 (três) anos como desenvolvedor web freelancer ativo, tive a oportunidade de colaborar em diversas plataformas como 99Freelas, Workana, Freelancer e Upwork. Durante esse período, concentrei meus esforços no desenvolvimento de soluções para e-commerce, utilizando minhas principais habilidades em JavaScript, React.js, Sass, Styled Components, Bootstrap, Tailwind CSS, WordPress e VTEX IO. Recentemente, obtive certificação em JavaScript, React.js e VTEX IO, consolidando ainda mais meu conhecimento nessa área.
+            Como desenvolvedor web possuo 3 (três) anos de experiência, colaborando em diversas plataformas como 99Freelas, Workana, Freelancer e Upwork. Durante esse período, concentrei meus esforços no desenvolvimento de soluções para e-commerce, utilizando minhas principais habilidades em JavaScript, React.js, Sass, Styled Components, Bootstrap, Tailwind CSS, WordPress e VTEX IO. Recentemente, obtive certificação em JavaScript, React.js e VTEX IO, consolidando ainda mais meu conhecimento nessa área.
           </p>
           <p>
             O meu foco é me especializar no front-end, mas já tive a oportunidade de trabalhar com o back-end de algumas aplicações utilizando o Node.js, MySQL, PostgreSQL, TypeORM, Firebase e Docker.
