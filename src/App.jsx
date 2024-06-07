@@ -196,7 +196,7 @@ function App() {
           <Presentation>
             <h1>
               Olá! Sou <span>Philipe</span>, <br></br> Desenvolvedor Web <br></br>
-              Front End
+              Front-End
             </h1>
 
             <Links>
