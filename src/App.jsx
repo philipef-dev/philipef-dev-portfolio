@@ -216,7 +216,7 @@ function App() {
 
         <Section id="about" title="Sobre" setActiveSection={setActiveSection}>
           <p>
-            Profissional de informática com mais de 10 anos de experiência, me formei em Sistemas de Informação em 2012 e iniciei minha trajetória como auxiliar técnico, oferecendo suporte a alunos e professores em aulas de montagem e manutenção de computadores, notebooks, redes, infraestrutura e introdução ao desenvolvimento web. Posteriormente, especializei-me em suporte e infraestrutura de redes de computadores (NOC), gerenciando redes de provedores de internet. Em seguida, fiz a transição de carreira para desenvolvimento web, mantendo-me atualizado por meio de cursos e bootcamps ministrados por profissionais renomados.
+            Profissional de informática com mais de 10 anos de experiência, formei-me em Sistemas de Informação em 2012 e iniciei minha trajetória como auxiliar técnico, oferecendo suporte a alunos e professores em aulas de montagem e manutenção de computadores, notebooks, redes, infraestrutura e introdução ao desenvolvimento web. Posteriormente, especializei-me em suporte e infraestrutura de redes de computadores (NOC), gerenciando redes de provedores de internet. Em seguida, fiz a transição de carreira para desenvolvimento web, mantendo-me atualizado por meio de cursos e bootcamps ministrados por profissionais renomados.
           </p>
           <p>
             Sou apaixonado pela arte de aprender e dedicado ao estudo do desenvolvimento web, especialmente em criar novas funcionalidades e transformar designs em experiências incríveis para os clientes finais.
