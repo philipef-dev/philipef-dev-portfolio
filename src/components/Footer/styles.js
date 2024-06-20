@@ -14,7 +14,7 @@ export const Container = styled.footer`
   border-top: 1px solid ${({ theme }) => theme.COLORS.GRAY_200};
 
   @media (min-width: 1024px) {
-    padding-inline: 12.3rem;
+    padding-inline: 12.2rem;
   }
 `;
 

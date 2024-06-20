@@ -201,7 +201,7 @@ function App() {
 
             <Links>
               <Link
-                href="https://www.linkedin.com/in/philipe-ferreira7/"
+                href="https://www.linkedin.com/in/philipef-dev/"
                 title="LinkedIn"
               >
                 <LinkedinLogo size={24} />
@@ -290,7 +290,7 @@ function App() {
             <p>Vamos construir algo juntos?</p>
 
             <Links>
-              <Link href="mailto:philipesferreiraa@gmail.com" title="E-mail">
+              <Link href="mailto:philipesfdev@gmail.com" title="E-mail">
                 <Envelope size={24} />
               </Link>
 
