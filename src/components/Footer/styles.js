@@ -14,12 +14,12 @@ export const Container = styled.footer`
   border-top: 1px solid ${({ theme }) => theme.COLORS.GRAY_200};
 
   @media (min-width: 1024px) {
-    padding-inline: 12.2rem;
+    padding-inline: 12.3rem;
   }
 `;
 
 export const Copyright = styled.div`
-font-size: 1.2rem;
+font-size: 1rem;
 `;
 
 export const SocialMedia = styled.div`
