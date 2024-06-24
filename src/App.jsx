@@ -219,7 +219,7 @@ function App() {
             Olá... 😄
           </p>
           <p>
-            Sou Philipe, graduado em Sistemas de Informação pela UniFOA - Centro Universitário de Volta Redonda e desenvolvedor Web Front-End com 2 anos de experiência na área. Atualmente, estou expandindo meu conhecimento no curso de Engenheiro Front-End pela EBAC - Escola Britânica de Artes Criativas.
+            Sou Philipe, graduado em Sistemas de Informação pela UniFOA - Centro Universitário de Volta Redonda e desenvolvedor Web Front-End com 2 (dois) anos de experiência na área. Atualmente, estou expandindo meu conhecimento no curso de Engenheiro Front-End pela EBAC - Escola Britânica de Artes Criativas.
           </p>
           <p>
             Iniciei minha trajetória na área de informática em 2012 como auxiliar técnico, oferecendo suporte a alunos e professores em aulas de montagem e manutenção de computadores, notebooks, redes, infraestrutura e introdução ao desenvolvimento web. Posteriormente, especializei-me em suporte e infraestrutura de redes de computadores (NOC), monitorando redes de provedores de internet.
