@@ -216,16 +216,19 @@ function App() {
 
         <Section id="about" title="Sobre" setActiveSection={setActiveSection}>
           <p>
-            Profissional de informática com mais de 10 anos de experiência, formei-me em Sistemas de Informação em 2012 e iniciei minha trajetória como auxiliar técnico, oferecendo suporte a alunos e professores em aulas de montagem e manutenção de computadores, notebooks, redes, infraestrutura e introdução ao desenvolvimento web. Posteriormente, especializei-me em suporte e infraestrutura de redes de computadores (NOC), monitorando redes de provedores de internet. Em seguida, fiz a transição de carreira para desenvolvimento web, mantendo-me atualizado por meio de cursos e bootcamps ministrados por profissionais renomados.
+            Olá... 😄
           </p>
           <p>
-            Sou apaixonado pela arte de aprender e dedicado ao estudo do desenvolvimento web, especialmente em criar novas funcionalidades e transformar designs em experiências incríveis para os clientes finais.
+            Sou Philipe, graduado em Sistemas de Informação pela UniFOA - Centro Universitário de Volta Redonda e desenvolvedor Web Front-End com 2 anos de experiência na área. Atualmente, estou expandindo meu conhecimento no curso de Engenheiro Front-End pela EBAC - Escola Britânica de Artes Criativas.
           </p>
           <p>
-            Como desenvolvedor web possuo 3 (três) anos de experiência, colaborando em diversas plataformas como 99Freelas, Workana, Freelancer e Upwork. Durante esse período, concentrei meus esforços no desenvolvimento de soluções para e-commerce, utilizando minhas principais habilidades em JavaScript, React.js, Sass, Styled Components, Bootstrap, Tailwind CSS, WordPress e VTEX IO. Recentemente, obtive certificação em JavaScript, React.js e VTEX IO, consolidando ainda mais meu conhecimento nessa área.
+            Iniciei minha trajetória na área de informática em 2012 como auxiliar técnico, oferecendo suporte a alunos e professores em aulas de montagem e manutenção de computadores, notebooks, redes, infraestrutura e introdução ao desenvolvimento web. Posteriormente, especializei-me em suporte e infraestrutura de redes de computadores (NOC), monitorando redes de provedores de internet.
           </p>
           <p>
-            O meu foco é me especializar no front-end, mas já tive a oportunidade de trabalhar com o back-end de algumas aplicações utilizando o Node.js, MySQL, PostgreSQL, TypeORM, Firebase e Docker.
+            Fiz a transição de carreira para desenvolvimento web, mantendo-me atualizado por meio de cursos e bootcamps ministrados por profissionais renomados. Durante este processo, trabalhei em diversos projetos e plataformas como desenvolvedor web freelancer, desenvolvendo sites do zero até o lançamento e dando suporte a outros já em produção.
+          </p>
+          <p>
+            Minhas principais tecnologias incluem HTML5, CSS3, JavaScript, React.js, TypeScript, Bootstrap, Sass, Styled Components, Tailwind CSS e VTEX IO. Embora meu foco seja me especializar no front-end, já tive a oportunidade de trabalhar com o back-end de algumas aplicações, utilizando Node.js, MySQL, PostgreSQL, TypeORM e Firebase.
           </p>
           <Skills>
             {skillsData.map((skill, index) => (
