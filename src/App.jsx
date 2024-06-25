@@ -216,19 +216,13 @@ function App() {
 
         <Section id="about" title="Sobre" setActiveSection={setActiveSection}>
           <p>
-            Olá... 😄
+            Graduado em Sistemas de Informação pelo UniFOA - Centro Universitário de Volta Redonda, atualmente estou expandindo meu conhecimento no curso de Engenheiro Front-End pela EBAC - Escola Britânica de Artes Criativas.
           </p>
           <p>
-            Sou Philipe, graduado em Sistemas de Informação pela UniFOA - Centro Universitário de Volta Redonda e desenvolvedor Web Front-End com 2 (dois) anos de experiência na área. Atualmente, estou expandindo meu conhecimento no curso de Engenheiro Front-End pela EBAC - Escola Britânica de Artes Criativas.
+            Iniciei minha trajetória na área de tecnologia como auxiliar técnico, oferecendo suporte a alunos e professores em aulas de montagem e manutenção de computadores, notebooks, redes, infraestrutura e introdução ao desenvolvimento web. Posteriormente, especializei-me em suporte e infraestrutura de redes de computadores (NOC), monitorando redes de provedores de internet. Em seguida, fiz a transição de carreira para o desenvolvimento web, mantendo-me atualizado por meio de cursos e bootcamps ministrados por profissionais renomados.
           </p>
           <p>
-            Iniciei minha trajetória na área de informática em 2012 como auxiliar técnico, oferecendo suporte a alunos e professores em aulas de montagem e manutenção de computadores, notebooks, redes, infraestrutura e introdução ao desenvolvimento web. Posteriormente, especializei-me em suporte e infraestrutura de redes de computadores (NOC), monitorando redes de provedores de internet.
-          </p>
-          <p>
-            Fiz a transição de carreira para desenvolvimento web, mantendo-me atualizado por meio de cursos e bootcamps ministrados por profissionais renomados. Durante este processo, trabalhei em diversos projetos e plataformas como desenvolvedor web freelancer, desenvolvendo sites do zero até o lançamento e dando suporte a outros já em produção.
-          </p>
-          <p>
-            Minhas principais tecnologias incluem HTML5, CSS3, JavaScript, React.js, TypeScript, Bootstrap, Sass, Styled Components, Tailwind CSS e VTEX IO. Embora meu foco seja me especializar no front-end, já tive a oportunidade de trabalhar com o back-end de algumas aplicações, utilizando Node.js, MySQL, PostgreSQL, TypeORM e Firebase.
+            Minhas principais expertises incluem HTML5, CSS3, JavaScript, React.js, TypeScript, Bootstrap, Sass, Styled Components, Tailwind CSS e VTEX IO. Embora meu foco seja me especializar no front-end, já tive a oportunidade de trabalhar com o back-end de algumas aplicações, utilizando Node.js, MySQL, PostgreSQL, TypeORM e Firebase.
           </p>
           <Skills>
             {skillsData.map((skill, index) => (
