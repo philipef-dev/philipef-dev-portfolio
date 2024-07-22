@@ -11,7 +11,7 @@ export function Footer() {
 
       <SocialMedia>
         <a
-          href="https://www.instagram.com/_philipefdev/"
+          href="https://www.instagram.com/_philipeferreiraa/"
           target="_blank"
         >
           <InstagramLogo size={24} />
