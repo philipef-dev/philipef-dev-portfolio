@@ -207,7 +207,7 @@ function App() {
                 <LinkedinLogo size={24} />
               </Link>
 
-              <Link href="https://github.com/PhilipeF" title="GitHub">
+              <Link href="https://github.com/philipef-dev" title="GitHub">
                 <GithubLogo size={24} />
               </Link>
             </Links>
