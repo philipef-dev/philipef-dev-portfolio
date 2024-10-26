@@ -188,7 +188,7 @@ function App() {
         <Section id="home" title="" setActiveSection={setActiveSection}>
           <Profile>
             <img
-              src="https://github.com/PhilipeF.png"
+              src="https://github.com/Philipef-dev.png"
               alt="Homem de pele negra e cabelos enrolados crespo, usando uma camiseta de polo branca e sorrindo."
             />
           </Profile>
