@@ -21,6 +21,7 @@ import { BackToTop } from "./components/BackToTop";
 import { Footer } from "./components/Footer";
 
 import { register } from "swiper/element/bundle";
+import { BtnWhatsApp } from "./components/BtnWhatsApp/index.jsx";
 register();
 
 function App() {
@@ -304,6 +305,8 @@ function App() {
       </main>
 
       {showBackToTop && <BackToTop handleSectionScroll={handleSectionScroll} />}
+
+      <BtnWhatsApp/>
 
       <Footer />
     </Container >
