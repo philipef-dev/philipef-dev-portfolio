@@ -51,5 +51,5 @@ export default createGlobalStyle`
   a:hover, li:hover {
     filter: brightness(0.9);
     transform: scale(1.1);
-  }
+  }  
 `;

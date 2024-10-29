@@ -1,4 +1,4 @@
-import { InstagramLogo } from "@phosphor-icons/react";
+// import { InstagramLogo } from "@phosphor-icons/react";
 import { Container, Copyright, SocialMedia } from "./styles";
 
 export function Footer() {
@@ -8,7 +8,7 @@ export function Footer() {
         <p>© 2024 Philipe Ferreira - Desenvolvedor Web 👨🏽‍💻 </p>
         <p>Todos os direitos reservados.</p>
       </Copyright>
-
+{/* 
       <SocialMedia>
         <a
           href="https://www.instagram.com/_philipeferreiraa/"
@@ -16,7 +16,7 @@ export function Footer() {
         >
           <InstagramLogo size={24} />
         </a>
-      </SocialMedia>
+      </SocialMedia> */}
     </Container>
   );
 }

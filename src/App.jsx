@@ -304,9 +304,9 @@ function App() {
         </Section>
       </main>
 
-      {showBackToTop && <BackToTop handleSectionScroll={handleSectionScroll} />}
+      {/* {showBackToTop && <BackToTop handleSectionScroll={handleSectionScroll} />} */}
 
-      <BtnWhatsApp/>
+      <BtnWhatsApp />
 
       <Footer />
     </Container >
