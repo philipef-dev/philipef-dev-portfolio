@@ -119,7 +119,7 @@ function App() {
       path: "https://i.imgur.com/hV6HbYt.png",
       tags: [
         "HTML",
-        "Style Componentes",
+        "Styled Componentes",
         "JavaScript",
         "ReactJS",
         "MirageJS"
