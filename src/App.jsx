@@ -223,7 +223,7 @@ function App() {
             Iniciei minha trajetória na área de tecnologia como auxiliar técnico, oferecendo suporte a alunos e professores em aulas de montagem e manutenção de computadores, notebooks, redes, infraestrutura e introdução ao desenvolvimento web. Posteriormente, especializei-me em suporte e infraestrutura de redes de computadores (NOC), monitorando redes de provedores de internet. Em seguida, fiz a transição de carreira para o desenvolvimento web, mantendo-me atualizado por meio de cursos e bootcamps ministrados por profissionais renomados.
           </p>
           <p>
-            Minhas principais habilidades incluem HTML5, CSS3, JavaScript, React.js, TypeScript,  Styled Components, Sass, Tailwind CSS, Bootstrap e VTEX IO. Embora meu foco seja me especializar no front-end, já tive a oportunidade de trabalhar com o back-end de algumas aplicações, utilizando Node.js, MySQL, PostgreSQL, TypeORM e Firebase.
+            Minhas principais habilidades incluem HTML5, CSS3, JavaScript, React.js, Next.js TypeScript,  Styled Components, Sass, Tailwind CSS, Bootstrap e VTEX IO. Embora meu foco seja me especializar no front-end, já tive a oportunidade de trabalhar com o back-end de algumas aplicações, utilizando Node.js, MySQL, PostgreSQL, TypeORM e Firebase.
           </p>
           <Skills>
             {skillsData.map((skill, index) => (
