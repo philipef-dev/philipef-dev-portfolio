@@ -104,7 +104,7 @@ function App() {
       title: "Minhas tarefas com Redux",
       repo: "my-tasks-redux",
       demo: "https://my-tasks-redux.vercel.app",
-      description: "Este projeto foi desenvolvido com o intuito de praticar tudo o que venho aprendendo ao longo deste ano, visando alcançar fluência em React.js e gerenciamento de estado utilizando Redux. Trata-se de uma to-do list que integra várias funcionalidades com Redux e conta com um layout responsivo utilizando Styled Components.",
+      description: "Projeto desenvolvido com o intuito de praticar tudo o que venho aprendendo ao longo deste ano, visando \ fluência em React.js e gerenciamento de estado utilizando Redux. Trata-se de uma to-do list que integra várias funcionalidades com Redux e com layout responsivo utilizando Styled Components.",
       path: "https://i.imgur.com/habRRse.png",
       tags: [
         "React.js",
