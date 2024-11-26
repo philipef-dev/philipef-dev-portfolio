@@ -80,38 +80,39 @@ function App() {
     {
       title: "To-Do-List Turbinado",
       repo: "to-do-list-turbinado-react",
-      demo: "https://to-do-list-turbinado-react.vercel.app/",
+      demo: "https://to-do-list-turbinado-react.vercel.app",
       description: "Projeto desenvolvido com intuito de praticar os principais fundamentos da biblioteca React.js. Neste projeto pude trabalhar com gerenciamento de estado e compartilhando de propriedades utilizando um dos hooks mais utilizados do React.js o useState.",
       path: "https://i.imgur.com/R2HNHfE.png",
       tags: [
-        "ReactJS",
-        "Javascript",
+        "React.js",
+        "Javascript"        
       ],
     },
     {
       title: "React Interview Challenge",
       repo: "challenge-react.js-01",
-      demo: "https://challenge-react01.vercel.app/",
+      demo: "https://challenge-react01.vercel.app",
       description: "Desafio para teste técnico utilizando a biblioteca React.js. Este teste é bastante utilizado em processos seletivos para recrutamento de candidatos.",
       path: "https://i.imgur.com/S5pTSxp.png",
       tags: [
-        "ReactJS",
+        "React.js",
         "JavaScript",
       ],
+    },    
+    {
+
+      title: "Minhas tarefas com Redux",
+      repo: "my-tasks-redux",
+      demo: "https://my-tasks-redux.vercel.app",
+      description: "Este projeto foi desenvolvido com o intuito de praticar tudo o que venho aprendendo ao longo deste ano, visando alcançar fluência em React.js e gerenciamento de estado utilizando Redux. Trata-se de uma to-do list que integra várias funcionalidades com Redux e conta com um layout responsivo criado utilizando Styled Components.",
+      path: "https://i.imgur.com/habRRse.png",
+      tags: [
+        "React.js",
+        "Javascript",
+        "Redux", 
+        "Styled Components"
+      ],
     },
-    // {
-    //   title: "CRUD em NODE JS",
-    //   repo: "nodecrud",
-    //   demo: "https://github.com/PhilipeF/nodecrud",
-    //   description: "Foi criando um banco de dados com duas entidades. Videos e categorias, simulando um sistema de cadastro de videos e suas respectivas categorias onde uma tabela se relaciona com a outra e eu posso cadastrar, deletar, editar e listar novos videos e categorias. Ao listar um determinado video já me aparece a sua categoria e a descrição da mesma devido ao relacionamento criado.",
-    //   path: "https://i.imgur.com/0ejbGc4.png",
-    //   tags: [
-    //     "Node.js ",
-    //     "Express",
-    //     "TypeScript",
-    //     "PostsgreSQL"
-    //   ],
-    // },
     {
       title: "Appointments",
       repo: "appointiments",
