@@ -85,7 +85,8 @@ function App() {
       path: "https://i.imgur.com/R2HNHfE.png",
       tags: [
         "React.js",
-        "Javascript"        
+        "Javascript",
+        "CSS Modules"        
       ],
     },
     {
@@ -110,6 +111,7 @@ function App() {
         "React.js",
         "Javascript",
         "Redux", 
+        "TypeScript",
         "Styled Components"
       ],
     },
@@ -120,10 +122,9 @@ function App() {
       description: "Projeto desenvolvido durante o Ignite - Bootcamp imersivo em React.js da Rocketseat. Neste projeto é possivel registrar entradas, saídas de valores e um total. Ideal para quem quer se manter organizado financeiramente.",
       path: "https://i.imgur.com/hV6HbYt.png",
       tags: [
-        "HTML",
-        "Styled Componentes",
         "JavaScript",
-        "ReactJS",
+        "React.js",
+        "Styled Componentes",
         "MirageJS"
       ],
     },
@@ -134,11 +135,10 @@ function App() {
       description: "Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.",
       path: "https://i.imgur.com/2ivpa3g.png",
       tags: [
-        "HTML",
-        "Scss",
         "JavaScript",
-        "ReactJS",
+        "React.js",
         "TypeScript",
+        "Scss",
         "Firebase"
       ],
     },
