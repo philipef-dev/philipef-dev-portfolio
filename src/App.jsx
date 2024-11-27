@@ -86,7 +86,6 @@ function App() {
       tags: [
         "React.js",
         "Javascript",
-        "CSS Modules"        
       ],
     },
     {
@@ -108,6 +107,7 @@ function App() {
       description: "Desenvolvi este projeto de lista de tarefas para praticar o que venho aprendendo, com foco na fluência em React.js e gerenciamento de estado com Redux. Ele integra várias funcionalidades com Redux e possui um layout responsivo utilizando Styled Components.",
       path: "https://i.imgur.com/habRRse.png",
       tags: [
+        "Javascript",
         "React.js",
         "Javascript",
         "Redux", 
