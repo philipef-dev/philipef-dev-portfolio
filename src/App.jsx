@@ -132,7 +132,6 @@ function App() {
       description: "Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.",
       path: "https://i.imgur.com/2ivpa3g.png",
       tags: [
-        "JavaScript",
         "React.js",
         "TypeScript",
         "Scss",
