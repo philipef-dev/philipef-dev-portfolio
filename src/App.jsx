@@ -85,7 +85,7 @@ function App() {
       path: "https://i.imgur.com/R2HNHfE.png",
       tags: [
         "React.js",
-        "Javascript",
+        "JavaScript",
       ],
     },
     {
@@ -107,9 +107,7 @@ function App() {
       description: "Desenvolvi este projeto de lista de tarefas para praticar o que venho aprendendo, com foco na fluência em React.js e gerenciamento de estado com Redux. Ele integra várias funcionalidades com Redux e possui um layout responsivo utilizando Styled Components.",
       path: "https://i.imgur.com/habRRse.png",
       tags: [
-        "Javascript",
         "React.js",
-        "Javascript",
         "Redux", 
         "TypeScript",
         "Styled Components"
@@ -122,9 +120,8 @@ function App() {
       description: "Projeto desenvolvido durante o Ignite - Bootcamp imersivo em React.js da Rocketseat. Neste projeto é possivel registrar entradas, saídas de valores e um total. Ideal para quem quer se manter organizado financeiramente.",
       path: "https://i.imgur.com/hV6HbYt.png",
       tags: [
-        "JavaScript",
         "React.js",
-        "Styled Componentes",
+        "Styled Components",
         "MirageJS"
       ],
     },
