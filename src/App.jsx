@@ -121,6 +121,7 @@ function App() {
       path: "https://i.imgur.com/hV6HbYt.png",
       tags: [
         "React.js",
+        "Context API",
         "Styled Components",
         "MirageJS"
       ],
