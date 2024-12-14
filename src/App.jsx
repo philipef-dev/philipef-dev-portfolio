@@ -98,7 +98,7 @@ function App() {
         "React.js",
         "JavaScript",
       ],
-    },    
+    },
     {
 
       title: "Minhas tarefas com Redux",
@@ -108,7 +108,7 @@ function App() {
       path: "https://i.imgur.com/habRRse.png",
       tags: [
         "React.js",
-        "Redux", 
+        "Redux",
         "TypeScript",
         "Styled Components"
       ],
@@ -144,7 +144,7 @@ function App() {
   const certificatesData = [
     {
       src: "https://i.imgur.com/2qQtpIe.png",
-      alt: "Certificado de conclusão do intensivação em JavaScript da HashTag Treinamentos.",
+      alt: "Certificado de conclusão do intensivação em JavaScript da HashTag Treinamentos",
     },
     {
       src: "https://i.imgur.com/5kOU66b.png",
@@ -152,15 +152,19 @@ function App() {
     },
     {
       src: "https://i.imgur.com/08u1A9N.png",
-      alt: "Certificado de conclusão curso em VTEX IO Native.",
+      alt: "Certificado de conclusão do curso em VTEX IO Native",
     },
     {
       src: "https://imgur.com/UnKyKdW.png",
-      alt: "Certicado de conclusão do curso em fluência em JavaScript CJRM "
+      alt: "Certicado de conclusão do curso em fluência em JavaScript CJRM"
     },
     {
       src: "https://imgur.com/M3KMyz3.png",
-      alt: "Certicado de conclusão do curso em fluência em JavaScript CJRM "
+      alt: "Certicado de conclusão do curso em fluência em JavaScript CJRM"
+    },
+    {
+      src: "https://i.imgur.com/hByJfnF.png",
+      alt: "Certificado de conclusão do curso de Engenheiro Front-End - Ebac"
     }
 
   ];
