@@ -219,7 +219,7 @@ function App() {
 
         <Section id="about" title="Sobre" setActiveSection={setActiveSection}>
           <p>
-            Graduado em Sistemas de Informação pelo UniFOA - Centro Universitário de Volta Redonda, e Engenheiro Front-End pela EBAC - Escola Britânica de Artes Criativas.
+            Graduado em Sistemas de Informação pelo UniFOA - Centro Universitário de Volta Redonda e Engenheiro Front-End pela EBAC - Escola Britânica de Artes Criativas.
           </p>
           <p>
             Iniciei minha trajetória na área de tecnologia como auxiliar técnico, oferecendo suporte a alunos e professores em aulas de montagem e manutenção de computadores, notebooks, redes, infraestrutura e introdução ao desenvolvimento web. Posteriormente, especializei-me em suporte e infraestrutura de redes de computadores (NOC), monitorando redes de provedores de internet. Em seguida, fiz a transição de carreira para o desenvolvimento web, mantendo-me atualizado por meio de cursos e bootcamps ministrados por profissionais renomados.
