@@ -219,13 +219,13 @@ function App() {
 
         <Section id="about" title="Sobre" setActiveSection={setActiveSection}>
           <p>
-            Graduado em Sistemas de Informação pelo UniFOA - Centro Universitário de Volta Redonda, atualmente estou expandindo meu conhecimento no curso de Engenheiro Front-End pela EBAC - Escola Britânica de Artes Criativas.
+            Graduado em Sistemas de Informação pelo UniFOA - Centro Universitário de Volta Redonda, e Engenheiro Front-End pela EBAC - Escola Britânica de Artes Criativas.
           </p>
           <p>
             Iniciei minha trajetória na área de tecnologia como auxiliar técnico, oferecendo suporte a alunos e professores em aulas de montagem e manutenção de computadores, notebooks, redes, infraestrutura e introdução ao desenvolvimento web. Posteriormente, especializei-me em suporte e infraestrutura de redes de computadores (NOC), monitorando redes de provedores de internet. Em seguida, fiz a transição de carreira para o desenvolvimento web, mantendo-me atualizado por meio de cursos e bootcamps ministrados por profissionais renomados.
           </p>
           <p>
-            Minhas principais habilidades incluem HTML5, CSS3, JavaScript, React.js, Next.js TypeScript,  Styled Components, Sass, Tailwind CSS, Bootstrap e ferramentas low code como VTEX IO e WordPress. Embora meu foco seja me especializar no front-end, já tive a oportunidade de trabalhar com o back-end de algumas aplicações, utilizando Node.js, MySQL, PostgreSQL, TypeORM e Firebase.
+            Minhas principais habilidades incluem HTML5, CSS3, JavaScript, React.js, Next.js TypeScript,  Styled Components, Sass, Tailwind, Bootstrap e ferramentas low code como VTEX IO e WordPress. Embora meu foco seja me especializar no front-end, já tive a oportunidade de trabalhar com o back-end de algumas aplicações, utilizando Node.js/Express, MySQL, PostgreSQL, TypeORM e Firebase.
           </p>
           <Skills>
             {skillsData.map((skill, index) => (
