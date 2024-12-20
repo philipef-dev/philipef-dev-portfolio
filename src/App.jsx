@@ -165,8 +165,11 @@ function App() {
     {
       src: "https://i.imgur.com/hByJfnF.png",
       alt: "Certificado de conclusão do curso de Engenheiro Front-End - Ebac"
+    },
+    {
+      src: "https://i.imgur.com/Wu7W2iT.png",
+      alt: "Certificado de participação do projeto 'Dev Empreendedor' - Sebrae-RJ"
     }
-
   ];
 
   return (
