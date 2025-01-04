@@ -5,9 +5,9 @@ export const Container = styled.div`
 
   transition: transform 0.5s;
 
-  &:hover {
+  /* &:hover {
     transform: scale(1.1);
-  }
+  } */
 
   > img {
     width: 100%;
