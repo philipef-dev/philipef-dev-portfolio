@@ -56,7 +56,7 @@ export const Container = styled.div`
   }
 
   swiper-slide {
-    display: flex;
+    /* display: flex; */
     max-width: 40rem;
   }
 

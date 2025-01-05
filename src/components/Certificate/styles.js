@@ -1,8 +1,6 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  max-width: 40rem;
-
   transition: transform 0.5s;
 
   &:hover {
@@ -16,14 +14,12 @@ export const Container = styled.div`
   }
 
   @media (max-width: 640px) {
-    max-width: 100rem;
-
-    > img {
-    width: 100%;
-    height: 76%;
-    object-fit: cover;
+    img {
+      width: 100%;
+      height: 80%;
+      object-fit: cover;
+    }
   }
-    
-  }
-
 `;
+
+

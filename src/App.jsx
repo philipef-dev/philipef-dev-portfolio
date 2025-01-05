@@ -17,8 +17,8 @@ import { Section } from "./components/Section";
 import { Skill } from "./components/Skill";
 import { Project } from "./components/Project";
 import { Certificate } from "./components/Certificate";
-import { BackToTop } from "./components/BackToTop";
 import { Footer } from "./components/Footer";
+// import { BackToTop } from "./components/BackToTop";
 
 import { register } from "swiper/element/bundle";
 import { BtnWhatsApp } from "./components/BtnWhatsApp/index.jsx";
@@ -277,7 +277,7 @@ function App() {
             grab-cursor="true"
           >
             {certificatesData.map((certificate, index) => (
-              <swiper-slide key={index}>
+              <swiper-slide sty key={index}>
                 <Certificate src={certificate.src} alt={certificate.alt} />
               </swiper-slide>
             ))}
