@@ -2,10 +2,12 @@
 import { Container, Copyright, SocialMedia } from "./styles";
 
 export function Footer() {
+  const currentYear = new Date().getFullYear();
+
   return (
     <Container>
       <Copyright>
-        <p>© 2024 Philipe Ferreira - Desenvolvedor Web 👨🏽‍💻 </p>
+        <p>© ${currentYear} Philipe Ferreira - Desenvolvedor Web 👨🏽‍💻 </p>
         <p>Todos os direitos reservados.</p>
       </Copyright>
 {/* 
