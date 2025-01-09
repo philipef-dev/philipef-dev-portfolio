@@ -165,10 +165,10 @@ function App() {
       src: "https://i.imgur.com/3iVfd0Y.png",
       alt: "Certificado em React.js - Codesh",
     },
-    {
-      src: "https://i.imgur.com/qi3nagg.png",
-      alt: "Certificado de conclusão do curso em VTEX IO Native - Code Blue",
-    },
+    // {
+    //   src: "https://i.imgur.com/qi3nagg.png",
+    //   alt: "Certificado de conclusão do curso em VTEX IO Native - Code Blue",
+    // },
     {
       src: "https://imgur.com/UnKyKdW.png",
       alt: "Certicado de conclusão do curso em fluência em JavaScript - CJRM"
