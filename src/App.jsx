@@ -69,7 +69,7 @@ function App() {
     {
       title: "Magazine-Caps",
       repo: "magazine-caps",
-      demo: "https://philipef.github.io/magazine-caps/",
+      demo: "https://philipef.github.io/magazine-caps",
       description: "Projeto desenvolvido com intuito de praticar os principais fundamentos do JavaScript. Consiste em um modelo de loja virtual onde o cliente pode adicionar, remover, acrescentar e decrementar produtos, com formulário para validação de dados e histórico dos pedidos realizados.",
       path: "https://i.imgur.com/5fe5MU3.png",
       tags: [
@@ -114,6 +114,21 @@ function App() {
       ],
     },
     {
+      title: "E-Play - A sua loja de games",
+      repo: "e-play",
+      demo: "https://e-play-orcin.vercel.app",
+      description: "O projeto consiste na criação de uma loja virtual responsiva de games, com exibição de produtos, carrinho, checkout e validações com Formik e Yup. Foi desenvolvido para praticar conceitos de React.js, Redux e Styled Components.",
+      path: "https://i.imgur.com/nxeOBFY.png",
+      tags: [
+        "React.js",
+        "Redux",
+        "TypeScript",
+        "Formik",
+        "Yup",
+        "Styled Components"
+      ],
+    },
+    {
       title: "Appointments",
       repo: "appointiments",
       demo: "https://github.com/PhilipeF/appointiments",
@@ -144,23 +159,23 @@ function App() {
   const certificatesData = [
     {
       src: "https://i.imgur.com/2qQtpIe.png",
-      alt: "Certificado de conclusão do intensivação em JavaScript da HashTag Treinamentos",
+      alt: "Certificado de conclusão do intensivação em JavaScript - HashTag Treinamentos",
     },
     {
-      src: "https://i.imgur.com/5kOU66b.png",
-      alt: "Certificado tirado junto a Coodesh em React.js !!",
+      src: "https://i.imgur.com/3iVfd0Y.png",
+      alt: "Certificado em React.js - Codesh",
     },
     {
-      src: "https://i.imgur.com/08u1A9N.png",
-      alt: "Certificado de conclusão do curso em VTEX IO Native",
+      src: "https://i.imgur.com/qi3nagg.png",
+      alt: "Certificado de conclusão do curso em VTEX IO Native - Code Blue",
     },
     {
       src: "https://imgur.com/UnKyKdW.png",
-      alt: "Certicado de conclusão do curso em fluência em JavaScript CJRM"
+      alt: "Certicado de conclusão do curso em fluência em JavaScript - CJRM"
     },
     {
       src: "https://imgur.com/M3KMyz3.png",
-      alt: "Certicado de conclusão do curso em fluência em JavaScript CJRM"
+      alt: "Certicado de pariticipação do webinar 'Como desenvolver as soft skills mais valorizadas pelo mercado' - EBAC"
     },
     {
       src: "https://i.imgur.com/hByJfnF.png",

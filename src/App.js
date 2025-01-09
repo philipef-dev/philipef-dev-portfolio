@@ -66,6 +66,7 @@ export const Container = styled.div`
 
   #certificates swiper-slide > div {
     height: 29rem;
+    padding: 1rem;
   }
 
   #contact {

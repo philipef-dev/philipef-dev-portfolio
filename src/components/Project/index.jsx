@@ -12,7 +12,7 @@ export function Project({ title, repo, demo, description, path, tags }) {
 
         <Icons>
           <a 
-            href={`https://github.com/philipeF/${repo}`} 
+            href={`https://github.com/philipef-dev/${repo}`} 
             target="_blank" 
             title="Repositório"
           >
