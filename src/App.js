@@ -61,7 +61,7 @@ export const Container = styled.div`
   }
 
   #projects swiper-slide > div {
-    height: 55rem;
+    height: 57rem;
   }
 
   #certificates swiper-slide > div {
