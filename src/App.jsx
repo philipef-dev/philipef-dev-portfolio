@@ -138,7 +138,7 @@ function App() {
         "React.js",
         "Context API",
         "Styled Components",
-        "MirageJS"
+        "Mirage.js"
       ],
     },
     {
