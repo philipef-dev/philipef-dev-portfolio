@@ -7,7 +7,7 @@ export function Footer() {
   return (
     <Container>
       <Copyright>
-        <p>© ${currentYear} Philipe Ferreira - Desenvolvedor Web 👨🏽‍💻 </p>
+        <p>© {currentYear} Philipe Ferreira - Desenvolvedor Web 👨🏽‍💻 </p>
         <p>Todos os direitos reservados.</p>
       </Copyright>
 {/* 
