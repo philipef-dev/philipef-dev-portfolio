@@ -4,7 +4,7 @@ export default {
     BACKGROUND_800: "#202024",
 
     WHITE: "#E1E1E6",
-    BRAND: "#7ECCBB",
+    BRAND: "#3A9ACD",
     
     GRAY_200: "#8D8D99",
   },
