@@ -19,7 +19,7 @@
 
 O projeto compreende a criação do meu portfólio como desenvolvedor. Nele, faço uma apresentação pessoal, compartilho insights sobre minha trajetória, destaco as tecnologias que domino, exibo os principais projetos que desenvolvi, apresento os certificados de cursos que completei e disponibilizo minhas informações de contato.
 
-!["Portfólio"](./src/assets/portfolio.png)
+<!-- !["Portfólio"](./src/assets/portfolio.png) -->
 
 <h2 id="technologies">💻 Tecnologias</h2>
 
