@@ -40,7 +40,7 @@ A aplicação está disponível para uso [aqui](https://philipef-dev-portfolio.v
 1. Clone o projeto:
 
 ```
-$ git clone https://github.com/philipef-dev-portfolio
+$ git clone https://github.com/philipef/philipef-dev-portfolio.git
 ```
 
 2. Acesse a pasta do projeto:
