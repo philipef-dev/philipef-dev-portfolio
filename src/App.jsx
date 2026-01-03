@@ -130,7 +130,7 @@ function App() {
     },
     {
       title: "Appointments",
-      repo: "appointiments",
+      repo: "https://github.com/PhilipeF/appointiments",
       demo: "https://github.com/PhilipeF/appointiments",
       description: "Projeto desenvolvido durante o Ignite - Bootcamp imersivo em React.js da Rocketseat. Neste projeto é possivel registrar entradas, saídas de valores e um total. Ideal para quem quer se manter organizado financeiramente.",
       path: "https://i.imgur.com/hV6HbYt.png",
@@ -146,7 +146,7 @@ function App() {
       repo: "letmeask-",
       demo: "https://github.com/PhilipeF/letmeask-",
       description: "Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.",
-      path: "https://i.imgur.com/2ivpa3g.png",
+      path: "https://i.imgur.com/gU5MVda.png",
       tags: [
         "React.js",
         "TypeScript",
@@ -155,6 +155,22 @@ function App() {
       ],
     },
   ];
+
+  const servicesData = [
+    {
+      title: "Landing Page para Personal Trainers",
+      repo: null,
+      demo: "https://core-forte.vercel.app/",
+      description: "Landing Page projetada com foco em alta taxa de conversão e autoridade digital. Utiliza engenharia de SEO avançada com Dados Estruturados (JSON-LD) para destaque no Google, além de uma arquitetura ultraveloz que garante a melhor experiência de usuário e retenção de leads.",
+      path: "https://i.imgur.com/gU5MVda.png",
+      tags: [
+        "Astro",
+        "Tailwind CSS",
+        "SEO Avançado (JSON-LD)",
+        "Open Graph Protocol"
+      ]
+    }
+  ]
 
   const certificatesData = [
     {
@@ -165,10 +181,10 @@ function App() {
       src: "https://i.imgur.com/3iVfd0Y.png",
       alt: "Certificado em React.js - Codesh",
     },
-    // {
-    //   src: "https://i.imgur.com/qi3nagg.png",
-    //   alt: "Certificado de conclusão do curso em VTEX IO Native - Code Blue",
-    // },
+    {
+      src: "https:i.imgur.com/qi3nagg.png",
+      alt: "Certificado de conclusão do curso em VTEX IO Native - Code Blue",
+    },
     {
       src: "https://imgur.com/UnKyKdW.png",
       alt: "Certicado de conclusão do curso em fluência em JavaScript - CJRM"
@@ -249,7 +265,7 @@ function App() {
             Minhas principais habilidades como desenvolvedor incluem HTML5, CSS3, JavaScript, React.js, Next.js, TypeScript, Styled Components, Sass, Tailwind, Bootstrap e Astro, com forte foco em performance e otimização para SEO. Também possuo experiência com ferramentas low code, como VTEX IO e WordPress.
           </p>
           <p>
-            Além do front end, atuo no desenvolvimento back end utilizando Node.js e Express, com integração a bancos de dados MySQL e PostgreSQL, além do uso de TypeORM e Firebase.
+            Além do front end, atuo no desenvolvimento back end utilizando Node.js e Express, com sólida experiência na integração de bancos de dados relacionais (MySQL e PostgreSQL) via TypeORM, além de dominar bancos NoSQL como MongoDB (utilizando Mongoose) e Firebase.
           </p>
           <Skills>
             {skillsData.map((skill, index) => (
@@ -260,9 +276,12 @@ function App() {
 
         <Section
           id="projects"
-          title="Projetos"
+          title="Projetos de Especialização"
           setActiveSection={setActiveSection}
         >
+          <p>
+            Esta seção reúne projetos desenvolvidos durante minha especialização técnica, onde aplico conceitos avançados de Engenharia de Software. Cada aplicação foi construída sob os pilares da Arquitetura Modular, garantindo escalabilidade e fácil manutenção por meio da separação clara de domínios. Utilizo TypeScript para assegurar a consistência dos dados e integro o Front-end ao Back-end (Node.js) de forma segura, validando toda a regra de negócio com testes unitários e de integração para garantir softwares robustos e livres de bugs.
+          </p>
           <swiper-container
             space-between="32"
             slides-per-view="auto"
@@ -271,6 +290,32 @@ function App() {
             grab-cursor="true"
           >
             {projectsData.map((project, index) => (
+              <swiper-slide key={index}>
+                <Project
+                  title={project.title}
+                  repo={project.repo}
+                  demo={project.demo}
+                  description={project.description}
+                  path={project.path}
+                  tags={project.tags}
+                />
+              </swiper-slide>
+            ))}
+          </swiper-container>
+        </Section>
+
+        <Section id="servicos" title="Serviços" setActiveSection={setActiveSection}>
+          <p>
+            Transformo tecnologia em faturamento por meio de interfaces de alto desempenho. Desenvolvo Landing Pages Premium focadas em conversão, utilizando código limpo e otimização avançada para SEO, garantindo que sua empresa não apenas tenha um site, mas uma máquina de vendas rápida e eficiente.
+          </p>
+          <swiper-container
+            space-between="32"
+            slides-per-view="auto"
+            autoplay="true"
+            loop="true"
+            grab-cursor="true"
+          >
+            {servicesData.map((project, index) => (
               <swiper-slide key={index}>
                 <Project
                   title={project.title}
@@ -320,7 +365,6 @@ function App() {
 
               <Link
                 href="http://discordapp.com/users/689830389371633742"
-
                 title="Discord"
               >
                 <DiscordLogo size={24} />

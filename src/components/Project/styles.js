@@ -28,6 +28,14 @@ export const Icons = styled.div`
   gap: 0.8rem;
 `;
 
+export const BadgePrivado = styled.div`
+  display: flex;
+  cursor: help; 
+  svg {
+    color: #8D8D99;
+  }
+`;
+
 export const Preview = styled.div`
   > img {
     width: 100%;
