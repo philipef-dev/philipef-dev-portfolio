@@ -240,13 +240,16 @@ function App() {
             Graduado em Sistemas de Informação pelo UniFOA - Centro Universitário de Volta Redonda e Engenheiro Front-End pela EBAC - Escola Britânica de Artes Criativas.
           </p>
           <p>
-            Iniciei minha trajetória na área de tecnologia como auxiliar técnico, oferecendo suporte a alunos e professores em aulas de montagem e manutenção de computadores, notebooks, redes, infraestrutura e introdução ao desenvolvimento web. Posteriormente, especializei me em suporte e infraestrutura de redes de computadores NOC, atuando no monitoramento de redes de provedores de internet
+            Iniciei minha trajetória na área de tecnologia como auxiliar técnico, oferecendo suporte a alunos e professores em aulas de montagem e manutenção de computadores, notebooks, redes, infraestrutura e introdução ao desenvolvimento web. Posteriormente, especializei-me em suporte e infraestrutura de redes de computadores NOC, atuando no monitoramento de redes de provedores de internet
           </p>
           <p>
-            Com o tempo, realizei a transição para o desenvolvimento web, iniciando minha carreira com foco em front end e mantendo me constantemente atualizado por meio de cursos e bootcamps ministrados por profissionais renomados. À medida que fui evoluindo tecnicamente, despertei interesse pelo back end com o objetivo de ampliar meu leque de oportunidades e atuar em projetos full stack, passando a me especializar em Node.js.
+            Com o tempo, realizei a transição para o desenvolvimento web, iniciando minha carreira com foco em front-end e mantendo-me constantemente atualizado por meio de cursos e bootcamps ministrados por profissionais renomados. À medida que fui evoluindo tecnicamente, despertei interesse pelo back-end com o objetivo de ampliar meu leque de oportunidades e atuar em projetos Full Stack, passando a me especializar em Node.js e Express.
           </p>
           <p>
-            Minhas principais habilidades incluem HTML5, CSS3, JavaScript, React.js, Next.js, TypeScript, Styled Components, Sass, Tailwind, Bootstrap e Astro, com foco em performance e otimização para SEO, além de ferramentas low code como VTEX IO e WordPress. Além do front end, possuo experiência no desenvolvimento back end utilizando Node.js e Express, bancos de dados MySQL e PostgreSQL, TypeORM e Firebase.
+            Minhas principais habilidades incluem HTML5, CSS3, JavaScript, React.js, Next.js, TypeScript, Styled Components, Sass, Tailwind, Bootstrap e Astro, com forte foco em performance e otimização para SEO. Também possuo experiência com ferramentas low code, como VTEX IO e WordPress.
+          </p>
+          <p>
+            Além do front end, atuo no desenvolvimento back end utilizando Node.js e Express, com integração a bancos de dados MySQL e PostgreSQL, além do uso de TypeORM e Firebase.
           </p>
           <Skills>
             {skillsData.map((skill, index) => (

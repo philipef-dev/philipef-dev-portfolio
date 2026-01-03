@@ -2,7 +2,7 @@
   👩🏽‍💻 Portfólio Philipe Ferreira Desenvolvedor Web
 </h1>
 
-> Meu portfólio de desenvolvedor
+> Meu portfólio como desenvolvedor
 
 <p align="center">
   <a href="#project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -18,8 +18,6 @@
 <h2 id="project">📁 Projeto</h2>
 
 O projeto compreende a criação do meu portfólio como desenvolvedor. Nele, faço uma apresentação pessoal, compartilho insights sobre minha trajetória, destaco as tecnologias que domino, exibo os principais projetos que desenvolvi, apresento os certificados de cursos que completei e disponibilizo minhas informações de contato.
-
-<!-- !["Portfólio"](./src/assets/portfolio.png) -->
 
 <h2 id="technologies">💻 Tecnologias</h2>
 
