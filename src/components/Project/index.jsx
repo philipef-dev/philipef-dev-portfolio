@@ -1,19 +1,17 @@
 import { GithubLogo, Rocket } from "@phosphor-icons/react";
-
 import { Container, Header, Icons, Preview, Tags } from "./styles";
-
 import { Tag } from "../../components/Tag";
 
 export function Project({ title, repo, demo, description, path, tags }) {
   return (
     <Container>
       <Header>
-        <h3>{title}</h3>
+        <h3>{title}</h3>        
 
         <Icons>
-          <a 
-            href={`https://github.com/philipef-dev/${repo}`} 
-            target="_blank" 
+          <a
+            href={`https://github.com/philipef-dev/${repo}`}
+            target="_blank"
             title="Repositório"
           >
             <GithubLogo size={24} />
@@ -23,13 +21,13 @@ export function Project({ title, repo, demo, description, path, tags }) {
           </a>
         </Icons>
       </Header>
-      
+
       <p>{description}</p>
 
       <Preview>
         <img src={path} />
       </Preview>
-      
+
       <Tags>
         {tags.map((tag, tagIndex) => (
           <Tag key={tagIndex} title={tag} />

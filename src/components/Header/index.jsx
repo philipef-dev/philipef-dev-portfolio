@@ -73,6 +73,18 @@ export function Header({
             </li>
             <li>
               <a
+                href="#servicos"
+                className={activeSection === "servicos" ? "active" : ""}
+                onClick={(e) => {
+                  e.preventDefault();
+                  handleSectionScroll("servicos");
+                }}
+              >
+                Serviços
+              </a>
+            </li>
+            <li>
+              <a
                 href="#certificates"
                 className={activeSection === "certificates" ? "active" : ""}
                 onClick={(e) => {

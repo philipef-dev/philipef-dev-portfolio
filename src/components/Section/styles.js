@@ -7,4 +7,9 @@ export const Container = styled.section`
     margin-bottom: 3.2rem;
     color: ${({ theme }) => theme.COLORS.GRAY_200};
   }
+
+  > p {
+    margin-bottom: 3.2rem;
+    text-align: left;
+  }
 `;
