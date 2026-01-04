@@ -182,7 +182,7 @@ function App() {
       alt: "Certificado em React.js - Codesh",
     },
     {
-      src: "https:i.imgur.com/qi3nagg.png",
+      src: "https://i.imgur.com/qi3nagg.png",
       alt: "Certificado de conclusão do curso em VTEX IO Native - Code Blue",
     },
     {
