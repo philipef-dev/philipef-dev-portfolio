@@ -6,7 +6,7 @@ export function BtnWhatsApp() {
             <FloatingWhatsApp
                 phoneNumber="24999173920"
                 accountName="Philipe Ferreira"
-                chatMessage="Quer aumentar as vendas do seu negócio com um site profissional? Clique aqui e peça um orçamento gratuito."
+                chatMessage="Quer escalar seu negócio com um site profissional e tráfego pago estratégico no Instagram e Google? Eu crio sua estrutura de vendas completa. Clique aqui e peça seu orçamento gratuito!"
                 avatar={perfil}
             />
     )
