@@ -154,6 +154,20 @@ function App() {
         "Firebase"
       ],
     },
+    {
+      title: "LavadorasPro",
+      repo: null,
+      demo: "https://www.lavadoraspro.com.br/",
+      description: "Portal de análises técnicas, guias de compra e reviews comparativos de lavadoras de alta pressão. Projetado com foco em alta performance, SEO On-Page avançado para ranqueamento no Google e arquitetura otimizada para monetização via afiliados.",
+      path: "https://i.imgur.com/bTNGGci.png",
+      tags: [
+        "HTML5",
+        "Tailwind CSS",
+        "Vercel",
+        "SEO",
+        "Afiliados"
+      ],
+    },
   ];
 
   const servicesData = [
